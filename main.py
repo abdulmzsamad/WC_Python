@@ -1,5 +1,5 @@
 import sys
-from wc import WC
+from wc.wc import WC
 
 def main():
     # Get filename from command-line arguments

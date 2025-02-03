@@ -60,3 +60,4 @@ class WC:
         self.count_lines()
         self.count_words()
         self.count_characters()
+    
